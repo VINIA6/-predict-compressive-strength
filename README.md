@@ -1,6 +1,6 @@
 # Predict Compressive Strenght  
 
-<img src="https://www.supremocimento.com.br/wp-content/uploads/2020/12/2-Velocidade-de-Ruptura-de-Corpos-de-Prova.jpg" height="300" title="Predict compressive strength"/>
+<img src="https://www.supremocimento.com.br/wp-content/uploads/2020/12/2-Velocidade-de-Ruptura-de-Corpos-de-Prova.jpg" height="250" width= "500" title="Predict compressive strength"/>
 
 <p>O projeto tem como objetivo predizer a resistência dos cimentos CPIIF-32, CPIII-40, CPV ARI, para cimentos expedidos. Como a norma ABNT NBR 7215 enuncia, as condições dos cimentos devem estar em um padrão de qualidade determinado pela mesma, segundo a norma, o cimento CPIIF-32 e o CPIII-40 devem ter testes de compressão nas amostras a ciclos de 3 dias, 7 dias e 28 dias. Já no cimento CPV ARI deve ter ciclos de compressão em 1 dia, 3 dias e 7 dias e estes testes devem atender determinada variação referente à norma. </p>
 <p>O projeto teve iniciativa a partir de alguns colaboradores da área da automação industrial, controle de qualidade, gestão e performance. Visando a predição da resistência do cimento a partir de dados históricos da Companhia é importante ressaltar que os resultados e dados são de propriedade da Companhia Industrial de Cimento Apodi.</p>
